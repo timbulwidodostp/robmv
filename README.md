@@ -1,6 +1,8 @@
 # robmv
 Robust multivariate estimation of location and covariance Use robmv With STATA 18
 
+https://www.youtube.com/watch?v=ITrjzoCXEaw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
